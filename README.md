@@ -27,6 +27,6 @@ The script will create these labels for you:
 - Automation/delete_1_day
 - Automation/auto_archived
 - Automation/auto_deleted
-- 
+
 ### To Do
 Revamp the incremental actions to use time-based rules rather than a once/day label swap.

@@ -22,6 +22,6 @@ Second, create a [new Google Script](https://script.google.com) project, and ove
 
 ![Trigger Setup](http://dropshare-superstrong.s3.amazonaws.com/GdwEy2cNhGjdAg/Screen-Shot-2016-03-17-at-2.01.49-PM.png "Trigger Setup")
 
-Save the project, then run it once (press the "play" icon) to prompt for authorization.
+After saving the timer, you should be prompted to authorize the script to run on your behalf. Approve it.
 
 Third, create Gmail filters that will assign new messages to any of the "archive_x_day" or "delete_1_day" labels. From there, the script will take over.

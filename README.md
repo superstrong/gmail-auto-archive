@@ -15,6 +15,8 @@ First, create the following labels:
 - Automation/auto_archived
 - Automation/delete_1_day
 - Automation/auto_deleted
+- Automation/temp_2_days
+- Automation/temp_1_day
 
 Second, create a [new Google Script](https://script.google.com) project, and overwrite the default contents of Code.gs with the code in this project. Then create a Trigger for this code by clicking the "clock" icon. To run once/day, create a timer that looks like this:
 
